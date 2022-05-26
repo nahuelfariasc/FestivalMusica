@@ -1,0 +1,26 @@
+{
+  "name": "festivalmusica",
+  "version": "1.0.0",
+  "description": "Proyecto con Gulp, SASS y HTML",
+  "main": "index.js",
+  "scripts": {
+    "sass": "sass --watch scr/scss:build/css"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nahuelfc/FestivalMusica.git"
+  },
+  "keywords": [
+    "SASS",
+    "Gulp"
+  ],
+  "author": "Nahuel",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nahuelfc/FestivalMusica/issues"
+  },
+  "homepage": "https://github.com/nahuelfc/FestivalMusica#readme",
+  "devDependencies": {
+    "sass": "^1.52.1"
+  }
+}
